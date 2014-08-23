@@ -6,12 +6,12 @@ A value between 1 and 6
 The subject on which the measurements were made
 * Activity_Description - 
 One of these values:
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+ - WALKING
+ - WALKING_UPSTAIRS
+ - WALKING_DOWNSTAIRS
+ - SITTING
+ - STANDING
+ - LAYING
 
 The following 86 columns correspond to the averages of the mean and std measurements taken for that subject and activity combination.
 * Average_of_tBodyAcc-mean()-X
